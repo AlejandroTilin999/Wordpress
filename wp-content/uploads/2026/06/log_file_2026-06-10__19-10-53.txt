@@ -1,0 +1,80 @@
+
+---Downloaded files---
+The import files for: Home 2 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress/wordpress
+Data file = C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\constimes-core/admin/demo-data/contents-demo.xml
+Widget file = C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\constimes-core/admin/demo-data/widget-settings.wie
+Customizer file = C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\constimes-core/admin/demo-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Bloque - No Title - Imported
+Categorías - No Title - Imported
+Nube de etiquetas - No Title - Imported
+Constimes Sidebar Posts Image - Recent Post - Imported
+
+Footer 1 : 
+
+HTML personalizado - No Title - Imported
+
+Footer 2 : 
+
+ConsTimes Footer Posts - Latest Post - Imported
+
+Footer 3 : 
+
+Menú de Navegación - Free Links - Imported
+
+Footer 4 : 
+
+Constimes Footer Subscriber - News Letter - Imported
+
+Footer Style 2 : 1 : 
+
+HTML personalizado - No Title - Imported
+Constimes Footer Subscriber 2 - No Title - Imported
+
+Footer Style 2 : 2 : 
+
+ConsTimes Footer Posts - Recent Post - Imported
+
+Footer Style 2 : 3 : 
+
+Menú de Navegación - Our Free Links - Imported
+
+Footer Style 2 : 4 : 
+
+HTML personalizado - Get in Touch - Imported
+
+Footer Style 3 : 1 : 
+
+HTML personalizado - No Title - Imported
+
+Footer Style 3 : 2 : 
+
+HTML personalizado - Company - Imported
+
+Footer Style 3 : 3 : 
+
+Menú de Navegación - Free Links - Imported
+
+Footer Style 3 : 4 : 
+
+ConsTimes Footer Posts - Recent Post - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

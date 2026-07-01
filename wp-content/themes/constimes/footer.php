@@ -10,7 +10,8 @@
  * @package constimes
  */
 
-do_action( 'constimes_footer_style' );
+// Forzamos a que use el footer-3 que encontramos en tu carpeta
+get_template_part( 'template-parts/footer/footer', '3' );
 
 wp_footer();?>
     </body>
